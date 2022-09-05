@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-//prueba
-=======
-const { log } = require("console");
 const { MongoClient, ServerApiVersion } = require("mongodb");
 
 const uri =
@@ -28,4 +24,3 @@ client.connect(async (err) => {
   // perform actions on the collection object
   client.close();
 });
->>>>>>> Initialize commit
