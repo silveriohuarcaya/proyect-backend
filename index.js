@@ -1,4 +1,3 @@
-// prueba de
 const { MongoClient, ServerApiVersion } = require("mongodb");
 
 const uri =
